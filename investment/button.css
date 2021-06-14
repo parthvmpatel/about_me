@@ -1,0 +1,16 @@
+.btn{
+    position: absolute;
+    margin-left: 14%;
+    top: 48px;
+    border: none;
+    outline: black;
+    background: none;
+    font-size: 50px;
+    color: black;
+    border-radius: 20px;
+}
+.btn:hover{
+    cursor: pointer;
+    background: rgb(182, 252, 164);
+    color: black;
+}
